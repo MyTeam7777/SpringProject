@@ -1,1 +1,2 @@
-
+optConfig:
+  optOutStrategy: true
